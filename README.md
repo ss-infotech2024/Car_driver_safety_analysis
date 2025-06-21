@@ -1,4 +1,4 @@
-# Driver Behavior Analysis
+# Car_driver_safety_analysis
 
 This repository contains Jupyter notebooks and deployment scripts for estimating driver safety using Pointer's dataset. The project demonstrates how to apply unsupervised learning techniques to assess driver safety at scale, leveraging both **Python (Pandas)** and **PySpark** implementations. The project also includes deployment instructions and CI/CD automation for running the solution on **Azure Databricks**.
 
